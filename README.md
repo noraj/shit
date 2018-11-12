@@ -1,4 +1,11 @@
 # SHIT - Stego Helper Identification Tool #
+
+[![Rawsec's CyberSecurity Inventory](https://inventory.rawsec.ml/img/badges/Rawsec-inventoried-FF5050_flat.svg)](https://inventory.rawsec.ml/tools.html#SHIT)
+[![GitHub issues](https://img.shields.io/github/issues/qll/shit.svg)](https://github.com/qll/shit/issues)
+[![GitHub forks](https://img.shields.io/github/forks/qll/shit.svg)](https://github.com/qll/shit/network)
+[![GitHub stars](https://img.shields.io/github/stars/qll/shit.svg)](https://github.com/qll/shit/stargazers)
+[![GitHub license](https://img.shields.io/github/license/qll/shit.svg)](https://github.com/qll/shit/blob/master/LICENSE)
+
 As steganography challenges get more popular in CTFs, we have to find a way to
 deal with this shit. Introducing SHIT: It deals with this shit. It can either
 create, read or analyse steganographic images, depending on your mood.
